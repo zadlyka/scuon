@@ -1,0 +1,10 @@
+#homeIMG {
+  height: 200px;
+}
+
+@media only screen and (max-width: 480px) {
+  /* For mobile phones: */
+  #homeIMG {
+    height: 120px;
+  }
+}
